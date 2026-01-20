@@ -1,0 +1,26 @@
+Req_ID,Role,Recruiter,Source,CV_Received,Screened,Interviewed,Offered,Offer_Accepted,Days_to_Hire,,
+REQ001,Data Analyst,Amit,LinkedIn,30,20,10,3,Yes,32,Total Requisitions,25
+REQ002,Java Developer,Neha,Naukri,45,30,15,4,No,45,Offers Accepted,17
+REQ003,QA Engineer,Rohit,Referral,20,15,8,2,Yes,28,Total Offers Made,25
+REQ004,HR Analyst,Amit,LinkedIn,25,18,9,3,Yes,30,Offer Acceptance Rate,68%
+REQ005,Python Developer,Neha,Naukri,50,35,18,5,No,55,Avg Time to Hire (Days),40.36
+REQ006,UI Developer,Rohit,Referral,22,16,7,2,Yes,26,,
+REQ007,BA,Amit,LinkedIn,28,20,10,3,Yes,34,,
+REQ008,DevOps Engineer,Neha,Naukri,48,32,14,4,No,50,,
+REQ009,Tester,Rohit,Referral,18,14,6,2,Yes,24,,
+REQ010,Product Analyst,Amit,LinkedIn,35,25,12,3,Yes,38,,
+REQ011,Backend Developer,Neha,Naukri,55,40,20,5,No,60,,
+REQ012,Frontend Developer,Rohit,Referral,26,19,9,3,Yes,29,,
+REQ013,Scrum Master,Amit,LinkedIn,24,18,8,2,Yes,31,,
+REQ014,Cloud Engineer,Neha,Naukri,60,45,22,6,No,62,,
+REQ015,Support Analyst,Rohit,Referral,20,15,7,2,Yes,27,,
+REQ016,Data Engineer,Amit,LinkedIn,40,28,14,4,Yes,42,,
+REQ017,ML Engineer,Neha,Naukri,58,42,21,5,No,65,,
+REQ018,Automation Tester,Rohit,Referral,23,17,8,2,Yes,28,,
+REQ019,HRBP,Amit,LinkedIn,27,19,9,3,Yes,33,,
+REQ020,Tech Lead,Neha,Naukri,62,48,24,6,No,70,,
+REQ021,Business Analyst,Rohit,Referral,25,18,9,2,Yes,30,,
+REQ022,Full Stack Dev,Amit,LinkedIn,44,32,16,4,Yes,46,,
+REQ023,Security Analyst,Neha,Naukri,52,38,19,5,No,58,,
+REQ024,UX Designer,Rohit,Referral,21,16,7,2,Yes,26,,
+REQ025,Mobile App Dev,Amit,LinkedIn,36,26,13,3,Yes,40,,
